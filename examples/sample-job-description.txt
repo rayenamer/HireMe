@@ -1,0 +1,17 @@
+Backend Engineer — Fintech Startup
+
+We're looking for a Backend Engineer to join our platform team.
+
+Requirements:
+- 3+ years of experience with Python and building RESTful APIs
+- Experience with test automation and CI/CD pipelines
+- Familiarity with Kubernetes and containerized deployments
+- Knowledge of SQL and relational database design
+- Strong experience with team leadership or mentoring junior engineers
+- Experience with AWS
+
+Nice to have:
+- Experience with TypeScript
+- Background in fintech or payments
+
+You'll work closely with product and design in an agile environment, own services end to end, and help scale our infrastructure as we grow.
